@@ -1,0 +1,8 @@
+.env
+*.json
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+*.egg-info/
+.venv/
+venv/
